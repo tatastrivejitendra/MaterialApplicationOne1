@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         chunkfive = Typeface.createFromAsset(getAssets(), "fonts/Chunkfive.otf");
-        fontlerybrown = Typeface.createFromAsset(getAssets(), "fonts/FontleroyBrownNF.otf");
+       // fontlerybrown = Typeface.createFromAsset(getAssets(), "fonts/FontleroyBrownNF.otf");
         wonderbarDemo = Typeface.createFromAsset(getAssets(), "fonts/WonderbarDemo.otf");
 
 
